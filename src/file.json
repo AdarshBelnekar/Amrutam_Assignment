@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Prerna Narang",
+      "specialization": "Male-Female Infertility",
+      "experience": 7,
+      "languages": ["English", "Hindi", "Marathi"],
+      "rating": 4.5,
+      "consultationType": "Video",
+      "fee": 1000,
+      "image": "/assets/Ellipse 727.png"
+    },
+    {
+      "id": 2,
+      "name": "Dr. John Doe",
+      "specialization": "Cardiology",
+      "experience": 10,
+      "languages": ["English"],
+      "rating": 4.8,
+      "consultationType": "Chat",
+      "fee": 500,
+      "image": "/assets/Ellipse 727.png"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Aisha Khan",
+      "specialization": "Dermatology",
+      "experience": 5,
+      "languages": ["English", "Hindi"],
+      "rating": 4.7,
+      "consultationType": "Video",
+      "fee": 700,
+      "image": "/assets/Ellipse 727.png"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Rohan Verma",
+      "specialization": "Pediatrics",
+      "experience": 8,
+      "languages": ["English", "Marathi"],
+      "rating": 4.6,
+      "consultationType": "Chat",
+      "fee": 600,
+      "image": "/assets/Ellipse 727.png"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Sophia Patel",
+      "specialization": "Neurology",
+      "experience": 12,
+      "languages": ["English", "Gujarati"],
+      "rating": 4.9,
+      "consultationType": "Video",
+      "fee": 1000,
+      "image": "/assets/Ellipse 727.png"
+    }
+  ]
+  
